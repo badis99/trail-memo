@@ -4,7 +4,6 @@ A full-stack web application that helps users track decisions, record expected o
 
 ![Status](https://img.shields.io/badge/status-completed-success)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## ✨ Features
 
