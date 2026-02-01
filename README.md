@@ -6,12 +6,6 @@ A full-stack web application that helps users track decisions, record expected o
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📸 Screenshots
-
-<!-- Add screenshots here -->
-![Dashboard](./docs/screenshots/dashboard.png)
-![Decision Detail](./docs/screenshots/decision-detail.png)
-
 ## ✨ Features
 
 - 🔐 **Authentication** - JWT-based secure login/signup
